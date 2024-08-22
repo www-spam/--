@@ -1,7 +1,7 @@
 
 ```mermaid
 gantt
-    title WE-ZZING WBS
+    title WÉ-ZZING WBS
     dateFormat  YY-MM-DD
     section Sprint 1 : 프로토타입 개발
 
